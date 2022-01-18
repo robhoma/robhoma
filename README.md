@@ -1,4 +1,12 @@
-### Hi there 👋
+### Howdy 👋
+
+#### Hey, I'm Robert Homa
+#### Working with Node.js, Python
+
+##### Visits:
+![Visitor Count](https://profile-counter.glitch.me/robhoma/count.svg)
+
+
 
 <!--
 **robhoma/robhoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
