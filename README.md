@@ -4,7 +4,7 @@
 
 #### Check out my [website!](www.roberthoma.com)
 
-##### Working with Node.js, Python
+##### Working with Python, Java
 
 ##### Visits:
 ![Visitor Count](https://profile-counter.glitch.me/robhoma/count.svg)
