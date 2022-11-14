@@ -6,7 +6,6 @@
 
 ##### Working with Python, Java
 
-##### Visits:
 <!--- ![Visitor Count](https://profile-counter.glitch.me/robhoma/count.svg) -->
 
 
