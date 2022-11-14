@@ -1,13 +1,13 @@
-### Howdy 👋
+### Hi 👋
 
-##### Hey, I'm Robert Homa
+##### I'm Rob
 
 #### Check out my [website!](www.roberthoma.com)
 
 ##### Working with Python, Java
 
 ##### Visits:
-![Visitor Count](https://profile-counter.glitch.me/robhoma/count.svg)
+<!--- ![Visitor Count](https://profile-counter.glitch.me/robhoma/count.svg) -->
 
 
 
