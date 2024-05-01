@@ -1,10 +1,8 @@
 ### Hi 👋
 
-<!---##### I'm Rob
+##### I'm Rob
 
-#### Check out my [website!](www.roberthoma.com)
-
-##### Working with Python, Java
+##### Working with Python, Java, Rust, and C/C++
 
 <!--- ![Visitor Count](https://profile-counter.glitch.me/robhoma/count.svg) -->
 
