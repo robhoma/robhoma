@@ -1,6 +1,4 @@
-### Hi 👋, I'm Rob Homa
-
-## About Me
+## Hi 👋, I'm Rob
 
 * 🇨🇦 Computer Engineering student at the Toronto Metropolitan University in Toronto, ON
 * 👨‍💻 Working with Python, Java, C/C++, and Assembly
