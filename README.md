@@ -1,9 +1,10 @@
+<!---
 ## Hi 👋, I'm Rob
 
 * 🇨🇦 Computer Engineering student at the Toronto Metropolitan University in Toronto, ON
 * 👨‍💻 Working with Python, Java, C/C++, and Assembly
 * 👾 Visit my [website](https://robhoma.com)
-
+---!>
 
 <!--- ![Visitor Count](https://profile-counter.glitch.me/robhoma/count.svg) -->
 
