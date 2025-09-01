@@ -1,7 +1,7 @@
 
 ## Hello 👋, I'm Rob
 
-* 🇨🇦 Computer Engineering student at the Toronto Metropolitan University in Toronto, ON
+* 🇨🇦 Electrical Engineering student at the Toronto Metropolitan University in Toronto, ON
 * 👨‍💻 Working with C, C++, Rust, Java, and (sometimes) Assembly
 
 <!--- ![Visitor Count](https://profile-counter.glitch.me/robhoma/count.svg) -->
